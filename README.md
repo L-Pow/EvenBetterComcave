@@ -4,7 +4,7 @@ Hier ist es z.B. möglich direkt lesend auf den java Prozess zuzugreifen um zum 
 Natürlich ist das ganze Open Source, wenn ihr also paranoid seid oder das Programm anpassen/verbessern wollt, könnt ihr euch das Programm einfach selbst kompilieren.
 Für alle anderen habe ich das Programm für verschiedene Plattformen kompiliert so dass es direkt ausführbar ist.
 
-[DOWNLOAD Portable](https://github.com/L-Pow/EvenBetterComcave/raw/master/Download%20Releases/portable.zip) (benötigt eine installierte [.NET CORE 3.1 Runtime](https://dotnet.microsoft.com/download/dotnet-core/3.1)) 
+[DOWNLOAD Portable](https://github.com/L-Pow/EvenBetterComcave/raw/master/Download%20Releases/portable.zip) (benötigt eine installierte [ASP.NET Core Runtime 3.1 oder höher](https://dotnet.microsoft.com/download/dotnet-core/3.1)) 
 
 [DOWNLOAD Windows 32bit](https://github.com/L-Pow/EvenBetterComcave/raw/master/Download%20Releases/win_x86.zip)
 
