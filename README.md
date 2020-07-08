@@ -4,15 +4,15 @@ Durch ist es z.B. möglich direkt auf den java Prozess zuzugreifen und zum Beisp
 Natürlich ist das ganze Open Source, wenn ihr also paranoid seid oder das Programm anpassen/verbessern wollt, könnt ihr dies gerne tun.
 Für alle anderen habe ich das Programm für verschiedene Plattformen kompiliert so dass es direkt ausführbar ist.
 
-[DOWNLOAD Portable]() (benötigt eine installierte [.NET CORE 3.1 Runtime](https://dotnet.microsoft.com/download/dotnet-core/3.1)) 
+[DOWNLOAD Portable](https://github.com/L-Pow/EvenBetterComcave/raw/master/Download%20Releases/portable.zip) (benötigt eine installierte [.NET CORE 3.1 Runtime](https://dotnet.microsoft.com/download/dotnet-core/3.1)) 
 
-[DOWNLOAD Windows 32bit]()
+[DOWNLOAD Windows 32bit](https://github.com/L-Pow/EvenBetterComcave/raw/master/Download%20Releases/win_x86.zip)
 
-[DOWNLOAD Windows 64bit]()
+[DOWNLOAD Windows 64bit](https://github.com/L-Pow/EvenBetterComcave/raw/master/Download%20Releases/win_x64.zip)
 
-[DOWNLOAD OsX 64bit]()
+[DOWNLOAD OsX 64bit](https://github.com/L-Pow/EvenBetterComcave/raw/master/Download%20Releases/osx_x64.zip)
 
-[DOWNLOAD Linux 64bit]()
+[DOWNLOAD Linux 64bit](https://github.com/L-Pow/EvenBetterComcave/raw/master/Download%20Releases/linux_x64.zip)
 
 Zum starten des Programms musst du die EvenBetterComcave.exe starten. <br>
 Damit dieses Programm funktioniert musst du deinen username und passwort in die Datei "appsetting.json" eintragen.<br>
