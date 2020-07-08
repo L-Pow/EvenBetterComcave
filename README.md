@@ -1,7 +1,7 @@
 # EvenBetterComcave
 Inspiriert durch das Projekt [Better Comcave](https://github.com/scysys/Better-Comcave) das leider auf Grund von Bash/VB sehr limitiert in seinen Fähigkeiten ist, und in der Praxis immer wieder unzuverlässig gearbeitet hat, habe ich eine technisch wesentlich verbesserte Version als .NET Core Console App in C# geschrieben.
 Hier ist es z.B. möglich direkt auf den java Prozess zuzugreifen und zum Beispiel den MainWindowName also den Namen des momentanten Hauptfensters abzufragen. Dadurch kann sichergestellt werden, dass der Launcher auch wirklich gestartet wurde und das Login Fenster geöffnet und angewählt ist, bevor die Zugangsdaten eingegeben werden.
-Natürlich ist das ganze Open Source, wenn ihr also paranoid seid oder das Programm anpassen/verbessern wollt, könnt ihr dies gerne tun.
+Natürlich ist das ganze Open Source, wenn ihr also paranoid seid oder das Programm anpassen/verbessern wollt, könnt ihr euch das Programm einfach selbst kompilieren.
 Für alle anderen habe ich das Programm für verschiedene Plattformen kompiliert so dass es direkt ausführbar ist.
 
 [DOWNLOAD Portable](https://github.com/L-Pow/EvenBetterComcave/raw/master/Download%20Releases/portable.zip) (benötigt eine installierte [.NET CORE 3.1 Runtime](https://dotnet.microsoft.com/download/dotnet-core/3.1)) 
