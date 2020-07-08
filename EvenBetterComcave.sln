@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenBetterComcave", "EvenBetterComcave.csproj", "{20D0236F-1A2D-4B0D-83C8-88850B26F3CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20D0236F-1A2D-4B0D-83C8-88850B26F3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D0236F-1A2D-4B0D-83C8-88850B26F3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D0236F-1A2D-4B0D-83C8-88850B26F3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D0236F-1A2D-4B0D-83C8-88850B26F3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA09293F-5781-48D3-B44B-25DA0C27C765}
+	EndGlobalSection
+EndGlobal
